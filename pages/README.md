@@ -1,1 +1,1 @@
-Readme needs: Your name, name of project, description or project, technologies used, and how to get project started
+Readme needs: Shayla Brown, SBA, This is a 3 page website.  I only used basic computer technology and it should be striaight forward on how to start this project.
