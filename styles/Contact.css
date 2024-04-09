@@ -64,3 +64,6 @@ ul {
     background-color: #04AA6D;
   }
   
+  h2 + p {
+    color: grey;
+ }

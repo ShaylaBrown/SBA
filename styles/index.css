@@ -27,6 +27,11 @@ ul {
     background-color: #111;
   }
   
+  h2 ~ p {
+    color: grey;
+ }
+ 
+  
   .active {
     background-color: #04AA6D;
   }
