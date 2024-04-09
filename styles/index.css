@@ -64,3 +64,9 @@ ul {
     background-color: #04AA6D;
   }
   
+  td, th {
+border: 1px solid green;
+border-collapse: collapse;
+width: 50%;
+text-align: center;
+  }
